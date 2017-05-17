@@ -8,4 +8,11 @@
   <groupId>rz.thesis</groupId>
   <artifactId>Backend-discovery</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>rz.thesis</groupId>
+  		<artifactId>Backend-core</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
